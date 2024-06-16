@@ -15,10 +15,11 @@ Welcome to the Weather Web App! This application provides real-time weather info
 
 ## 🛠️ Technologies Used
 
-- ⚛️ **Javascript**:  JavaScript  for building user interfaces.
-- 🌐 **OpenWeather API**: Fetches weather data.
-- 🎨 **CSS**: Styles the application.
-- 📦 **HTML5**: Structure of the page.
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**: JavaScript for building user interfaces.
+- ![OpenWeather API](https://img.icons8.com/color/48/000000/api.png) **OpenWeather API**: Fetches weather data.
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS**: Styles the application.
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**: Structure of the page.
+
 
 ## 🚀 Getting Started
 
